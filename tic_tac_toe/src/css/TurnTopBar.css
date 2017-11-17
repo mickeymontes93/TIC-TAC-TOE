@@ -1,0 +1,10 @@
+.turnTopBar
+{
+  float: inherit;
+}
+
+.player-turn
+{
+  text-align: center;
+  color: white;
+}
