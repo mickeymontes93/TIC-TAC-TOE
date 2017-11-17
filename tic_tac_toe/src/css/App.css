@@ -1,0 +1,15 @@
+
+.title-text
+{
+  text-align: center;
+  margin: auto;
+}
+
+.title
+{
+  width: 50%;
+  margin: auto;
+  background-color: #F9A825;
+  border-radius: 5px;
+  box-shadow: 10px 10px 5px #888888;
+}
