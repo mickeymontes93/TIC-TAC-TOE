@@ -1,0 +1,5 @@
+- Download or clone https://github.com/mickeymontes93/TIC-TAC-TOE
+- Navigate to TIC-TAC-TOE folder by using the console
+- Open tic_tac_toe forlder by using the console
+- inside of tic_tac_toe folder execute this command 'npm install'
+- after the install is completed execute this command 'npm start'
